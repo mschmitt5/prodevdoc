@@ -1,0 +1,17 @@
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.nav {
+    color: aqua;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: bisque;
+}
